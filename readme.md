@@ -39,10 +39,10 @@ Với kinh nghiệm đa dạng trong lập trình và thiết kế, tôi cam k�
 - **Hỗ trợ tận tâm**: Luôn sẵn sàng tư vấn và giải đáp thắc mắc.  
 
 ## Liên Hệ Với Tôi
-- **Email**: [email@example.com]  
-- **Số điện thoại**: 0123 456 789  
-- **GitHub**: [github.com/username](#)  
-- **Website cá nhân**: [trần-công-tiến.com](#)  
+- **Email**: [trancongtien406@gmail.com]  
+- **Số điện thoại**: 0382802406  
+- **GitHub**: [github.com/tiendev2003](#)  
+- **Website cá nhân**: [tiendev.id.vn](#)  
 
 Hãy liên hệ ngay để nhận tư vấn miễn phí hoặc đặt mua **đồ án website**, **ứng dụng mobile** phù hợp với nhu cầu của bạn!
 
